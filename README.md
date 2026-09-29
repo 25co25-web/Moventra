@@ -171,13 +171,14 @@ MOVENTRA is currently being developed and tested as a real-time public transport
 
 ---
 
-## 🤝 Contributors
+## 👥 Contributors
 
-Jonathan De Sa
-Arnav Singh
-Yash Gaonkar
-Tanisha Sawant
-Mihir Kesarkar
+* **Jonathan De Sa**
+* **Arnav Singh**
+* **Yash Gaonkar**
+* **Tanisha Sawant**
+* **Mihir Kesarkar**
+
 
 ---
 
